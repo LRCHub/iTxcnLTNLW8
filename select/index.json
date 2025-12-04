@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "日常",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-04T14:24:11.335914Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "日常",
+      "artist": "FLOWER FLOWER",
+      "has_synced": true,
+      "path": "select/01_日常_FLOWER_FLOWER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "日常",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/02_日常_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "日常",
+      "artist": "茄子蛋",
+      "has_synced": true,
+      "path": "select/03_日常_茄子蛋.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "日常 - Live",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/04_日常_-_Live_Hebe_Tien.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "日常",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/05_日常_Hebe_Tien.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "日常",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/06_日常_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "日常",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/07_日常_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "日常",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/08_日常_乃木坂46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "日常",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_日常_Official髭男dism.txt"
+    }
+  ]
+}
